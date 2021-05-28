@@ -11,9 +11,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Log monitoring with Logz.io using Filebeat](https://medium.com/@Thejas007/log-monitoring-with-logz-io-using-filebeat-b3534eb02f48?source=rss-58894497ab16------2)
-- [Deveroom for SpecFlow visual studio extension](https://medium.com/@Thejas007/deveroom-for-specflow-visual-studio-extension-9e0126f1e17?source=rss-58894497ab16------2)
-- [Azure DevOps — Pull request validation for a multi .net solution in a large git repo](https://medium.com/@Thejas007/azure-devops-pull-request-validation-for-a-multi-net-solution-in-a-large-git-repo-ff6c27e9a289?source=rss-58894497ab16------2)
+- [Log monitoring with Logz.io using Filebeat](https://thejas007.medium.com/log-monitoring-with-logz-io-using-filebeat-b3534eb02f48?source=rss-58894497ab16------2)
+- [Deveroom for SpecFlow visual studio extension](https://thejas007.medium.com/deveroom-for-specflow-visual-studio-extension-9e0126f1e17?source=rss-58894497ab16------2)
+- [Azure DevOps — Pull request validation for a multi .net solution in a large git repo](https://thejas007.medium.com/azure-devops-pull-request-validation-for-a-multi-net-solution-in-a-large-git-repo-ff6c27e9a289?source=rss-58894497ab16------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
