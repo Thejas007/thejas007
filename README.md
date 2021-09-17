@@ -11,6 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Logging with dotnet](https://thejas007.medium.com/logging-with-dotnet-4895cc7775a0?source=rss-58894497ab16------2)
 - [Log monitoring with Logz.io using Filebeat](https://thejas007.medium.com/log-monitoring-with-logz-io-using-filebeat-b3534eb02f48?source=rss-58894497ab16------2)
 - [Deveroom for SpecFlow visual studio extension](https://thejas007.medium.com/deveroom-for-specflow-visual-studio-extension-9e0126f1e17?source=rss-58894497ab16------2)
 - [Azure DevOps — Pull request validation for a multi .net solution in a large git repo](https://thejas007.medium.com/azure-devops-pull-request-validation-for-a-multi-net-solution-in-a-large-git-repo-ff6c27e9a289?source=rss-58894497ab16------2)
